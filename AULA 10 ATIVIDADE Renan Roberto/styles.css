@@ -1,0 +1,69 @@
+
+nav{
+    padding: 10px;
+    text-align: center;
+}
+
+nav a{
+    color: black;
+    padding: 5px;
+    margin-right: 5px;
+
+}
+
+body {
+    height: 100%;   
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: aqua;
+    margin-bottom: 25px;
+}
+
+.container {
+    width: 300px; 
+    height: 300px; 
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+p{
+    margin-left: 420px;
+    margin-right: auto;
+    text-align: justify;
+    color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: red;
+    text-align: center;
+}
+
+h3{
+    color: purple;
+    text-align: center;
+}
+
+h4{
+    color: brown;
+    text-align: center;
+}
+
+h5{
+    color: green;
+    text-align: center;
+}
+
+H6{
+    color: blue;
+    text-align: center;
+}
