@@ -1,0 +1,21 @@
+#elemento {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: width 1s ease-in-out;
+}
+
+#elemento.anima {
+    width: 200px;
+}
+
+#elemento2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: width 1s ease-in-out;
+}
+
+#elemento2.anima2 {
+    width: 200px;
+}

@@ -1,0 +1,22 @@
+#elemento {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
+
+#elemento:hover {
+    background-color: red;
+}
+
+#elemento2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
